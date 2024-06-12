@@ -5,3 +5,4 @@ Daten eingeben -> Booking.com wird durchsucht -> Ausgabe: Name , Preis, Bewertun
 Mein Abschlussprojekt.
 
 Bestanden
+Outdated
